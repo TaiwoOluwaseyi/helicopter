@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: lightgreen;
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: 90rem;
+    height: 80rem;
+    background-color: rgb(88, 179, 253);
+    display: grid;
+    place-items: center;
+}
+
+.helicopter {
+    width: 80rem;
+    height: 60rem;
+    background-color: white;
+}
+
+.blade {
+    width: 40rem;
+    height: 2rem;
+    background-color: #000;
+}
+
+
+
+
+
+
+
+
